@@ -1,6 +1,6 @@
 # ChatRunner
 
-Description:
+Description:      
 
 This is a real-time chat application built using React for the frontend, Node.js and Express for the backend, and ChatEngine.io for chat data management and real-time communication. It allows multiple users to chat with each other in a dynamic and engaging environment.
 
@@ -14,5 +14,7 @@ ChatEngine Integration: Leverages ChatEngine's features for seamless chat functi
 Technologies:
 
 Frontend: React
+
 Backend: Node.js, Express
+
 Chat Management: ChatEngine.io
